@@ -1,0 +1,6 @@
+/* Estilos globales mínimos; el diseño vive en App.css */
+html,
+body,
+#root {
+  min-height: 100%;
+}
